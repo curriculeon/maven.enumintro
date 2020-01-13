@@ -7,6 +7,8 @@ import org.junit.Test;
  * Created by leon on 3/4/18.
  */
 public class AliceBobEnumTest {
+
+
     @Test
     public void testAliceName() {
         // Given
